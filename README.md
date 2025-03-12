@@ -1,2 +1,2 @@
-# Caffe On Broadway Project
-We Will put all the relevant info of the project for documentation purpose.
+# Cafe On Broadway Project
+We will put all the relevant info of the project for documentation purpose.
